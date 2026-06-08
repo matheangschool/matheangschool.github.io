@@ -1,6 +1,32 @@
 html{
-    font-family: serif;
-    background: rgb(253, 254, 246);
-    margin: 0;
+    font-family: Montserrat;
+    background: #EBE8E2;
+    margin: 2%;
 }
 
+h1{
+    color: #9E9E9E;
+    font-weight: 600;
+}
+
+
+p{
+    color: #9E9E9E;
+    font-size: 20px;
+}
+
+headingb{
+    color:#878787;
+    font-weight: 700;
+}
+
+b{
+    color:#878787;
+    font-weight: 500
+}
+
+flexbox{
+    display: flex;
+    gap: 20 px;
+    margin: 5%;
+}
